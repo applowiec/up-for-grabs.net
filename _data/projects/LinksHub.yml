@@ -1,9 +1,9 @@
----
 name: LinksHub
-desc: LinksHub is a Hub of ready-to-use tech resources.
+desc: LinksHub is a hub of ready-to-use developer resources.
 site: https://linkshub.dev
 tags:
 - nextjs
+- react
 - typescript
 - tailwindcss
 - open-source
